@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'standalone',
-    basePath: '/lab/micro'
+    basePath: '/lab/projects/micro'
 }
 
 module.exports = nextConfig
