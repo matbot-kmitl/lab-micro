@@ -1,17 +1,21 @@
+import GithubImg from "../public/Github.svg";
+import InstagramImg from "../public/Instagram.svg";
+import LinkedInImg from "../public/LinkedIn.svg";
+
 export const Social_Icons = [
   {
     link: "https://github.com/piyawudk",
-    image: "./Github.svg",
+    image: GithubImg,
     alt: "Github",
   },
   {
     link: "https://www.instagram.com/micro.py",
-    image: "./Instagram.svg",
+    image: InstagramImg,
     alt: "Instagram",
   },
   {
     link: "https://www.linkedin.com/in/piyawudk/",
-    image: "./LinkedIn.svg",
+    image: LinkedInImg,
     alt: "LinkedIn",
   },
 ];
